@@ -1,0 +1,14 @@
+.env
+node_modules/
+.DS_Store
+public/
+dist/
+*.apk
+*.aab
+*.ap_
+*.jks
+*.keystore
+keystore.properties
+android/keystore.properties
+android/*.jks
+android/*.keystore
