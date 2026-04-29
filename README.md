@@ -10,7 +10,7 @@
 ## 下载体验
 
 - Android APK：请到 [GitHub Releases](https://github.com/jay122312803-boophello/jd-image-analyzer/releases) 下载最新版。
-- 当前版本：`岗位黑话解码-v1.0.1-release.apk`
+- 当前版本：`jd-ray-local-v1.0.1-android.apk`
 - SHA256：
 
 ```text
